@@ -10,15 +10,15 @@ HTML-basic-structure-class---3-
     <title>_project name_</title>
   </head>
   <body>
-    <h1>hellow world</h1>
-    <h2>hellow world</h2>
-    <h3>hellow world</h3>
-    <h4>hellow world</h4>
-    <h5>hellow world</h5>
-    <h6>hellow world</h6>
-    <p>lorwm100</p>
+    <h1></h1>
+    <h2></h2>
+    <h3></h3>
+    <h4></h4>
+    <h5></h5>
+    <h6></h6>
+    <p></p>
     <img src="" alt="">
   </body>
 </html>
 
-live preview :
+live preview link :
