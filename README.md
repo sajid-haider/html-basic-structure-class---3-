@@ -1,5 +1,4 @@
 # Html-basic-structure-class---3-
-HTML-basic-structure-class---3-
 ================================
 <!doctype html>
 <html lang="en">
